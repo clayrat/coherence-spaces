@@ -1,0 +1,8 @@
+-R theories/ Coherence
+-arg -w
+-arg all
+theories/Coherence.v
+theories/Coherence3.v
+theories/Coherence4.v
+
+
